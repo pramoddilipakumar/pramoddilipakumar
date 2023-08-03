@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java,Kubernetes**
 
-- 📝 I regularly write articles on [medium.com/@pramoddilipakumar](medium.com/@pramoddilipakumar)
+- 📝 I regularly write articles on [medium.com/@pramod.dilipakumar](medium.com/@pramod.dilipakumar)
 
 - 💬 Ask me about **Devops**
 
